@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem 'pry'
 # Database
 gem 'sqlite3'
 
